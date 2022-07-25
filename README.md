@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarumae&label=Profile%20views&color=0e75b6&style=flat" alt="tarumae" /> </p>
 
-- 🔭 I’m currently working on [The Guild](https://www.theguild.fun/)
-
-- 🌱 I’m currently learning **React / Node.JS / Express / MongoDB**
-
 - 📫 How to reach me **tom.arumae@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
